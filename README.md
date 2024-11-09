@@ -33,7 +33,7 @@ The Book a Doctor application follows a client-server architecture:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/book-a-doctor.git
+   git clone https://github.com/bharath3010/book-a-doctor.git
    cd book-a-doctor
    ```
 
